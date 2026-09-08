@@ -9,7 +9,7 @@ Interested in Federated learning and recommendation systems.
 ### Contact
 
 - [![Gmail Badge](https://img.shields.io/badge/Email-qmdlghfl3%40naver.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:cjfgus025412@gmail.com)
-- GitHub: [@cheolhyeon-kim](https://github.com/cheolhyeon-kim)
+
 
 ## Tech Stack
 
