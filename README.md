@@ -8,7 +8,7 @@ Interested in Federated learning and recommendation systems.
 
 ### Contact
 
-- [![Gmail Badge](https://img.shields.io/badge/Email-qmdlghfl3%40naver.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:cjfgus025412@gmail.com)
+- [![Gmail Badge](https://img.shields.io/badge/Email-cjfgus025412%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:cjfgus025412@gmail.com)
 
 
 ## Tech Stack
